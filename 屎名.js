@@ -15,7 +15,7 @@
 
 (function() {
     'use strict';
-    var uid = 87940; //这里放你想要变成屎名的uid
+    var uid = 23121; //这里放你想要变成屎名的uid
     var fuck1 = document.getElementsByClassName("lg-fg-red lg-bold");
     var fuck2 = document.getElementsByClassName("lg-fg-orange lg-bold");
     var fuck3 = document.getElementsByClassName("lg-fg-purple lg-bold");
